@@ -8,9 +8,9 @@
 - **Cloud Services (AWS and Azure)** : EC2, VPC, S3, RDS, R53, CloudWatch, SNS, Azure Directory(AD), Azure Virtual Machine(VM)
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- B.Tech., AI & ML | Annamacharya Institute of Technology and Sciences (_Nov 2021_ - _Present_)
+   - **GPA** : 9.0 / 10
+   - **Coursework** : Machine Learning, Artificial Intelligence, Deep Learning, Design and Analysis of Algorithms, Operationg Systems, Database Management Systems    					       		
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
