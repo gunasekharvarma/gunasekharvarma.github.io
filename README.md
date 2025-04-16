@@ -23,7 +23,7 @@
    - **Coursework** : Machine Learning, Artificial Intelligence, Deep Learning, Design and Analysis of Algorithms, Operationg Systems, Database Management Systems    					       		
 
 ## Work Experience
-**Machine Learning Engineer (_Feb 15 - Present_)**
+**Machine Learning Engineer (_Feb 2025 - Present_)**
 ![canopuslogo](https://github.com/user-attachments/assets/a8274bf1-5672-46e7-9721-fc40f6426196)
 
 -  **Pre-processed data sets containing more than 500,000 entries**, performing tasks such as data cleaning, feature
