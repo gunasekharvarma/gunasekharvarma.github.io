@@ -3,8 +3,9 @@
 ## 🔗 Connect with Me
 
 [![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png)](https://github.com/gunasekharvarma)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunasekharvarma/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gunasekhar.sangaraju@gmail.com)
+[![LinkedIn](https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png)](https://www.linkedin.com/in/gunasekharvarma/)
+[![Email](https://img.icons8.com/ios-glyphs/30/D14836/new-post.png)](mailto:gunasekhar.sangaraju@gmail.com)
+
 
 ## Technical Skills
 - **Programming Languages** : Java, Python, HTML, CSS, JavaScript
