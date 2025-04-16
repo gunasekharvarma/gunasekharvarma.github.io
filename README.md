@@ -1,4 +1,4 @@
-#Machine Learning Engineer
+# Machine Learning Engineer
 
 ## 🔗 Connect with Me
 
@@ -21,14 +21,14 @@
 - **Cloud Services (AWS and Azure)** : EC2, VPC, S3, RDS, R53, CloudWatch, SNS, Azure Directory(AD), Azure Virtual Machine(VM)
 
 ## Education
-**- B.Tech., AI & ML | Annamacharya Institute of Technology and Sciences (_Nov 2021_ - _Present_)**
+- **B.Tech., AI & ML | Annamacharya Institute of Technology and Sciences (_Nov 2021_ - _Present_)**
 
    - **GPA** : 9.0 / 10
    - **Coursework** : Machine Learning, Artificial Intelligence, Deep Learning, Design and Analysis of Algorithms, Operating Systems, Database Management Systems    					       		
 
 ## Work Experience
 **Machine Learning Engineer (_Feb 2025 - Present_)**
--**Canopus GBS**
+ - **Canopus GBS**
 
 -  **Pre-processed data sets containing more than 500,000 entries**, performing tasks such as data cleaning, feature
  engineering, and normalization to prepare for model training.
