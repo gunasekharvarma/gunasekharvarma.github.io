@@ -6,9 +6,8 @@
 [![LinkedIn](https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png)](https://www.linkedin.com/in/gunasekharvarma/)
 [![Email](https://img.icons8.com/ios-glyphs/30/D14836/new-post.png)](mailto:gunasekhar.sangaraju@gmail.com)
 
-## 📄 Resume
 
-[![Resume](https://img.icons8.com/ios-filled/24/000000/resume.png) View Resume](https://drive.google.com/file/d/1bT9YFboCxKNAzoecWdr8JogGw4hGg8Ui/view?usp=drivesdk)
+[![Resume](https://img.icons8.com/ios-filled/24/000000/resume.png) **Take a look at my Resume**](https://drive.google.com/file/d/1bT9YFboCxKNAzoecWdr8JogGw4hGg8Ui/view?usp=drivesdk)
 
 
 ## Technical Skills
