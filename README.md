@@ -47,6 +47,8 @@
 - **Tech Stack**: Python, Django, Django Rest Framework(DRF), HTML, CSS, Java Script, Jinja2
 
   ![photo-collage png](https://github.com/user-attachments/assets/809dff8b-240f-49ef-8072-10776ba47c9d)
+  [Github Repo](https://github.com/gunasekharvarma/Hospital)
+  
 
 
 ###  Flask-Powered Blogging: A Simple and Scalable Solution
@@ -55,6 +57,7 @@
 - **Deployed the application on a Linux server**, optimizing the configurations for traffic handling and ensuring uptime
  while managing version control with Git.
 - **Tech Stack**: Python, Flask, HTML, CSS, Linux, Git
+  [Github Repo](https://github.com/gunasekharvarma/Flask_Blog_App))
 
 ###  Skin Classification Analysis
 - **Pre-processed and fine-tuned a skin classification dataset** using **ResNet50** and **transfer learning**, achieving 84%
