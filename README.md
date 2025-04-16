@@ -1,6 +1,6 @@
-# Data Scientist
+# Aspiring Machine Learning Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+## Technical Skills
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
