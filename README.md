@@ -21,7 +21,7 @@
 - **Cloud Services (AWS and Azure)** : EC2, VPC, S3, RDS, R53, CloudWatch, SNS, Azure Directory(AD), Azure Virtual Machine(VM)
 
 ## Education
- **B.Tech., AI & ML | Annamacharya Institute of Technology and Sciences (_Nov 2021_ - _Present_)**
+ **B.Tech., AI & ML | Annamacharya Institute of Technology and Sciences** _(Nov 2021 - Present)_
 
    - **GPA** : 9.0 / 10
    - **Coursework** : Machine Learning, Artificial Intelligence, Deep Learning, Design and Analysis of Algorithms, Operating Systems, Database Management Systems    					       		
@@ -37,7 +37,7 @@
 - **Collaborated with the team to implement machine learning solutions**, helping solve real-world business problems
  and providing insights that improved decision making and efficiency.
 
-**Research Assistant (_May 2024_ - _Jan 2025_)**
+**Research Assistant** _(May 2024 – Jan 2025)_  
 *Annamacharya Institute of Technology and Sciences*
 
 -  **Conducted a thorough review of 20+ research papers** on lung cancer prediction, focusing on the latest developments
