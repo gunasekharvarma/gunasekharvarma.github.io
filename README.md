@@ -1,4 +1,4 @@
-# Aspiring Machine Learning Engineer
+#Machine Learning Engineer
 
 ## 🔗 Connect with Me
 
@@ -30,7 +30,7 @@
 
 ## Work Experience
 **Machine Learning Engineer (_Feb 2025 - Present_)**
-![canopuslogo](https://github.com/user-attachments/assets/a8274bf1-5672-46e7-9721-fc40f6426196)
+**Canopus GBS**
 
 -  **Pre-processed data sets containing more than 500,000 entries**, performing tasks such as data cleaning, feature
  engineering, and normalization to prepare for model training.
@@ -40,9 +40,7 @@
  and providing insights that improved decision making and efficiency.
 
 **Research Assistant (_May 2024_ - _Jan 2025_)**
-
-
-![aitslogo](https://github.com/user-attachments/assets/8cb359e1-8b53-4294-ab93-bd1887c9413d)
+**Annamacharya Institute of Technology and Sciences**
 
 -  **Conducted a thorough review of 20+ research papers** on lung cancer prediction, focusing on the latest developments
  in artificial neural networks (ANN) for medical diagnosis.
