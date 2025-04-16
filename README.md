@@ -46,6 +46,9 @@
  system for live use.
 - **Tech Stack**: Python, Django, Django Rest Framework(DRF), HTML, CSS, Java Script, Jinja2
 
+  ![photo-collage png](https://github.com/user-attachments/assets/809dff8b-240f-49ef-8072-10776ba47c9d)
+
+
 ###  Flask-Powered Blogging: A Simple and Scalable Solution
 -  **Built a dynamic blogging platform using flask**, implementing user authentication, role-based access, and a responsive
  front-end with **Jinja templating**.
