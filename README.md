@@ -27,8 +27,8 @@
    - **Coursework** : Machine Learning, Artificial Intelligence, Deep Learning, Design and Analysis of Algorithms, Operating Systems, Database Management Systems    					       		
 
 ## Work Experience
-**Machine Learning Engineer (_Feb 2025 - Present_)**
-  *Canopus GBS*
+**Machine Learning Engineer** _(Feb 2025 – Present)_  
+*Canopus GBS*
 
 -  **Pre-processed data sets containing more than 500,000 entries**, performing tasks such as data cleaning, feature
  engineering, and normalization to prepare for model training.
