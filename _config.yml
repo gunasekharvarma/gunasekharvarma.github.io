@@ -3,3 +3,12 @@ logo: /assets/img/Sai3-modified.png
 #description: text below image
 show_downloads: false
 theme: jekyll-theme-minimal
+author:
+  name: Guna Sekhar Varma Sangaraju
+  email: gunasekhar.sangaraju@gmail.com
+
+social_links:
+  - name: View my LinkedIn
+    url: https://www.linkedin.com/in/gunasekharvarma/
+  - name: Send an Email
+    url: mailto:gunasekhar.sangaraju@gmail.com
