@@ -8,41 +8,47 @@
 - **Cloud Services (AWS and Azure)** : EC2, VPC, S3, RDS, R53, CloudWatch, SNS, Azure Directory(AD), Azure Virtual Machine(VM)
 
 ## Education
-- **B.Tech., AI & ML | Annamacharya Institute of Technology and Sciences (_Nov 2021_ - _Present_)**
+**- B.Tech., AI & ML | Annamacharya Institute of Technology and Sciences (_Nov 2021_ - _Present_)**
    - **GPA** : 9.0 / 10
    - **Coursework** : Machine Learning, Artificial Intelligence, Deep Learning, Design and Analysis of Algorithms, Operationg Systems, Database Management Systems    					       		
 
 ## Work Experience
 **Machine Learning Engineer (_Feb 15 - Present_)**
--  Pre-processed data sets containing more than 500,000 entries, performing tasks such as data cleaning, feature
+![canopuslogo](https://github.com/user-attachments/assets/a8274bf1-5672-46e7-9721-fc40f6426196)
+
+-  **Pre-processed data sets containing more than 500,000 entries**, performing tasks such as data cleaning, feature
  engineering, and normalization to prepare for model training.
-- Developed and fine-tuned machine learning models, improving accuracy by 18% and speeding up processing by 25%
+- **Developed and fine-tuned machine learning models**, improving accuracy by **18%** and speeding up processing by **25%**
  to make algorithms more efficient on large datasets.
-- Collaborated with the team to implement machine learning solutions, helping solve real-world business problems
+- **Collaborated with the team to implement machine learning solutions**, helping solve real-world business problems
  and providing insights that improved decision making and efficiency.
 
 **Research Assistant (_May 2024_ - _Jan 2025_)**
--  Conducted a thorough review of 20+ research papers on lung cancer prediction, focusing on the latest developments
+![aitslogo](https://github.com/user-attachments/assets/8cb359e1-8b53-4294-ab93-bd1887c9413d)
+
+-  **Conducted a thorough review of 20+ research papers** on lung cancer prediction, focusing on the latest developments
  in artificial neural networks (ANN) for medical diagnosis.
-- Worked on optimizing ANN architectures, testing various hyperparameters and layer configurations, leading to a 15%
+- **Worked on optimizing ANN architectures**, testing various hyperparameters and layer configurations, leading to a **15%**
  increase in prediction accuracy.
-- Collaborated with a team of 4 peers to organize and document our findings, ensuring that our work could be easily
+- **Collaborated with a team of 4 peers** to organize and document our findings, ensuring that our work could be easily
  reproduced and built upon by others in the field.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Healthcare Management System: Django-Based Staff and Patient Management
+- **Developed a healthcare management system** using **Django** and **Django REST Framework** to manage patient
+ records, staff schedules, appointments, and billing.
+-  **Implemented role-based access control (RBAC)** with secure authentication, ensuring data privacy and deploying the
+ system for live use.
+- **Tech Stack**: Python, Django, Django Rest Framework(DRF), HTML, CSS, Java Script, Jinja2
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+###  Flask-Powered Blogging: A Simple and Scalable Solution
+-  **Built a dynamic blogging platform using flask**, implementing user authentication, role-based access, and a responsive
+ front-end with **Jinja templating**.
+- **Deployed the application on a Linux server**, optimizing the configurations for traffic handling and ensuring uptime
+ while managing version control with Git.
+- **Tech Stack**: Python, Flask, HTML, CSS, Linux, Git
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
