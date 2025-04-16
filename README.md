@@ -8,14 +8,18 @@
 - **Cloud Services (AWS and Azure)** : EC2, VPC, S3, RDS, R53, CloudWatch, SNS, Azure Directory(AD), Azure Virtual Machine(VM)
 
 ## Education
-- B.Tech., AI & ML | Annamacharya Institute of Technology and Sciences (_Nov 2021_ - _Present_)
+ B.Tech., AI & ML | Annamacharya Institute of Technology and Sciences (_Nov 2021_ - _Present_)
    - **GPA** : 9.0 / 10
    - **Coursework** : Machine Learning, Artificial Intelligence, Deep Learning, Design and Analysis of Algorithms, Operationg Systems, Database Management Systems    					       		
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Machine Learning Engineer (_Feb 15 - Present_)**
+-  Pre-processed data sets containing more than 500,000 entries, performing tasks such as data cleaning, feature
+ engineering, and normalization to prepare for model training.
+- Developed and fine-tuned machine learning models, improving accuracy by 18% and speeding up processing by 25%
+ to make algorithms more efficient on large datasets.
+- Collaborated with the team to implement machine learning solutions, helping solve real-world business problems
+ and providing insights that improved decision making and efficiency.
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
