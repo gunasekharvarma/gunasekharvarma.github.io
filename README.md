@@ -28,7 +28,7 @@
 
 ## Work Experience
 **Machine Learning Engineer (_Feb 2025 - Present_)**
-**Canopus GBS**
+-**Canopus GBS**
 
 -  **Pre-processed data sets containing more than 500,000 entries**, performing tasks such as data cleaning, feature
  engineering, and normalization to prepare for model training.
@@ -38,7 +38,7 @@
  and providing insights that improved decision making and efficiency.
 
 **Research Assistant (_May 2024_ - _Jan 2025_)**
-**Annamacharya Institute of Technology and Sciences**
+-**Annamacharya Institute of Technology and Sciences**
 
 -  **Conducted a thorough review of 20+ research papers** on lung cancer prediction, focusing on the latest developments
  in artificial neural networks (ANN) for medical diagnosis.
