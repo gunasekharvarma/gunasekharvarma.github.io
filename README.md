@@ -23,8 +23,6 @@
 ## Education
 **- B.Tech., AI & ML | Annamacharya Institute of Technology and Sciences (_Nov 2021_ - _Present_)**
 
-![aitslogo](https://github.com/user-attachments/assets/ccdbe5db-52d4-4936-938f-3f56bca99e98)
-
    - **GPA** : 9.0 / 10
    - **Coursework** : Machine Learning, Artificial Intelligence, Deep Learning, Design and Analysis of Algorithms, Operating Systems, Database Management Systems    					       		
 
