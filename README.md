@@ -7,7 +7,14 @@
 [![Email](https://img.icons8.com/ios-glyphs/30/D14836/new-post.png)](mailto:gunasekhar.sangaraju@gmail.com)
 
 
-[![Resume](https://img.icons8.com/ios-filled/24/000000/resume.png) **Take a look at my Resume**](https://drive.google.com/file/d/1bT9YFboCxKNAzoecWdr8JogGw4hGg8Ui/view?usp=drivesdk)
+## 📄 Resume
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1bT9YFboCxKNAzoecWdr8JogGw4hGg8Ui/view?usp=drivesdk" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-align: center; text-decoration: none; border-radius: 5px; font-size: 16px;">
+    **Take a look at my Resume**
+  </a>
+</p>
+
 
 
 ## Technical Skills
