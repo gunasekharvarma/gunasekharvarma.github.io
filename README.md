@@ -2,7 +2,7 @@
 
 ## 🔗 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gunasekharvarma)
+[![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png)](https://github.com/gunasekharvarma)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunasekharvarma/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gunasekhar.sangaraju@gmail.com)
 
@@ -53,7 +53,7 @@
 - **Tech Stack**: Python, Django, Django Rest Framework(DRF), HTML, CSS, Java Script, Jinja2
 
   ![photo-collage png](https://github.com/user-attachments/assets/809dff8b-240f-49ef-8072-10776ba47c9d)
-  [![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png)](https://github.com/gunasekharvarma/Hospital)
+  [![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png) **Github Repo**](https://github.com/gunasekharvarma/Hospital)
 
   
 
@@ -65,7 +65,7 @@
  while managing version control with Git.
 - **Tech Stack**: Python, Flask, HTML, CSS, Linux, Git
   
-  [![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png)](https://github.com/gunasekharvarma/Flask_Blog_App)
+  [![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png) **Github Repo**](https://github.com/gunasekharvarma/Flask_Blog_App)
 
 
 ###  Skin Classification Analysis
