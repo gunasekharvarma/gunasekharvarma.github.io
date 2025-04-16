@@ -1,11 +1,11 @@
 # Aspiring Machine Learning Engineer
 
 ## Technical Skills
-- Programming Languages : Java, Python, HTML, CSS, JavaScript
-- Frameworks and Libraries : Django, Flask, numpy, pandas, matplotlib, seaborn
-- Machine Learning Libraries: Scikit-Learn, Keras, Tensorflow, Pytorch
-- Databases : MySQL, Oracle
-- Cloud Services (AWS and Azure) : EC2, VPC, S3, RDS, R53, CloudWatch, SNS, Azure Directory(AD), Azure Virtual Machine(VM)
+- **Programming Languages** : Java, Python, HTML, CSS, JavaScript
+- **Frameworks and Libraries** : Django, Flask, numpy, pandas, matplotlib, seaborn
+- **Machine Learning Libraries**: Scikit-Learn, Keras, Tensorflow, Pytorch
+- **Databases** : MySQL, Oracle
+- **Cloud Services (AWS and Azure)** : EC2, VPC, S3, RDS, R53, CloudWatch, SNS, Azure Directory(AD), Azure Virtual Machine(VM)
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
