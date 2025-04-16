@@ -9,6 +9,9 @@
 
 ## Education
 **- B.Tech., AI & ML | Annamacharya Institute of Technology and Sciences (_Nov 2021_ - _Present_)**
+
+![aitslogo](https://github.com/user-attachments/assets/ccdbe5db-52d4-4936-938f-3f56bca99e98)
+
    - **GPA** : 9.0 / 10
    - **Coursework** : Machine Learning, Artificial Intelligence, Deep Learning, Design and Analysis of Algorithms, Operationg Systems, Database Management Systems    					       		
 
@@ -24,6 +27,8 @@
  and providing insights that improved decision making and efficiency.
 
 **Research Assistant (_May 2024_ - _Jan 2025_)**
+
+
 ![aitslogo](https://github.com/user-attachments/assets/8cb359e1-8b53-4294-ab93-bd1887c9413d)
 
 -  **Conducted a thorough review of 20+ research papers** on lung cancer prediction, focusing on the latest developments
@@ -48,27 +53,25 @@
  while managing version control with Git.
 - **Tech Stack**: Python, Flask, HTML, CSS, Linux, Git
 
+###  Skin Classification Analysis
+- **Pre-processed and fine-tuned a skin classification dataset** using **ResNet50** and **transfer learning**, achieving 84%
+ precision in classifying various skin conditions.
+-  **Evaluated model performance** using metrics such as accuracy, precision, recall, and F1 score, demonstrating improved
+ results over baseline models for dermatological analysis.
+-  **Tech Stack** : Python, numpy, pandas, matplotlib, scikit-learn, keras.
 
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+**1. Skin Condition Recognition through Deep Learning: A ResNet50 Implementation(ICIMSS - 2024)**
 
-- [Data Science Blog](https://medium.com/@shawhin)
+## Certifications
+- **PH125.8x: Data Science: Machine Learning by HarvardX**
+   ![Machine_Learning_certificate_EDX](https://github.com/user-attachments/assets/439908f0-2325-4934-af26-2ae72c33a369)
+- **Python from Zero to Hero**
+  ![Python Udemy](https://github.com/user-attachments/assets/c0a6c818-1b66-4add-a63d-2511e05d0990)
+- **Secured an Elite Certificate in Joy Of Computing with Python**
+  ![NPTEL_Python](https://github.com/user-attachments/assets/59ce2090-4d51-46cd-b4c4-394330eaef42)
+
+
+  
